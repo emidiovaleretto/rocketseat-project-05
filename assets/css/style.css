@@ -16,9 +16,14 @@ body {
   margin: 100px auto;
 }
 
+.grid {
+  display: grid;
+  gap: 32px;
+}
+
 img {
   display: block;
-  max-width: 100%;
+  width: 100%;
   height: auto;
   border-radius: 6px;
 }
@@ -55,7 +60,6 @@ header h1 {
 
 .card {
   position: relative;
-  margin-bottom: 32px;
   overflow: hidden;
 }
 
@@ -120,5 +124,39 @@ header h1 {
   100% {
     transform: translateY(0);
     opacity: 1;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+  .grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .container {
+    max-width: 1200px;
+    margin: 120px auto;
+    padding: 0 60px;
+  }
+  .grid {
+    grid-template-areas:
+      "col-1 col-2 col-2"
+      "col-3 col-3 col-4";
+  }
+  .grid div:nth-child(1) {
+    grid-area: col-1;
+  }
+  .grid div:nth-child(2) {
+    grid-area: col-2;
+  }
+  .grid div:nth-child(3) {
+    grid-area: col-3;
+  }
+  .grid div:nth-child(4) {
+    grid-area: col-4;
   }
 }
