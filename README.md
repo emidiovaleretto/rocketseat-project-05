@@ -4,6 +4,10 @@
 
 This is a single-page project developed as part of the Rocketseat Explorer course. The project showcases the main concepts of grid layout and is designed to be responsive across different screen sizes, including large screens, tablets, and mobile devices.
 
+# Live Demo
+
+Check out the live demo of the project <a href="https://emidiovaleretto.github.io/rocketseat-project-05/" target="_blank" rel="noopener noreferrer">Here</a>.
+
 # Table of Contents
 
 - [Features](#features)
@@ -26,8 +30,6 @@ This is a single-page project developed as part of the Rocketseat Explorer cours
 
 ## Desktop Version
 
-## Screenshots
-
 <img src="https://i.imgur.com/2tFvCVu.png" alt="Desktop Version Screenshot" width="1024">
 
 ## Tablet Version
@@ -40,11 +42,7 @@ This is a single-page project developed as part of the Rocketseat Explorer cours
 
 ## Hover Effect
 
-<img src="https://i.imgur.com/WvDjDGe.png" alt="Hover Effect" width="768">
-
-# Live Demo
-
-Check out the live demo of the project [here](https://emidiovaleretto.github.io/rocketseat-project-05/).
+<img src="https://i.imgur.com/WvDjDGe.png" alt="Hover Effect" width="1024">
 
 # Installation
 
