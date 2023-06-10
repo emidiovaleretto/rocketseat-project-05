@@ -11,6 +11,15 @@ body {
   background-color: #28293e;
 }
 
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .container {
   max-width: 330px;
   margin: 100px auto;
@@ -67,11 +76,12 @@ header h1 {
   height: 416px;
   object-fit: cover;
   transition: all 0.4s ease;
+  filter: grayscale(0%) brightness(0.7);
 }
 
 .card img:hover {
   transform: scale(1.1);
-  opacity: 0.4;
+  filter: grayscale(100%);
 }
 
 .card > div {
@@ -101,6 +111,23 @@ header h1 {
   font-weight: 800;
   font-size: 2.5rem;
   line-height: 3rem;
+}
+
+footer {
+  text-align: center;
+  margin: 100px auto 40px;
+}
+
+footer p {
+  font-size: 0.75rem;
+  line-height: 1px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #bbb3e5;
+}
+
+footer p i {
+  color: red;
 }
 
 @keyframes topdown {
@@ -139,7 +166,7 @@ header h1 {
 @media screen and (min-width: 1080px) {
   .container {
     max-width: 1200px;
-    margin: 120px auto;
+    margin: 120px auto 0;
     padding: 0 60px;
   }
   .grid {
