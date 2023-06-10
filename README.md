@@ -26,19 +26,21 @@ This is a single-page project developed as part of the Rocketseat Explorer cours
 
 ## Desktop Version
 
-![Desktop Version Screenshot](https://i.imgur.com/2tFvCVu.png)
+## Screenshots
+
+<img src="https://i.imgur.com/2tFvCVu.png" alt="Desktop Version Screenshot" width="1024">
 
 ## Tablet Version
 
-![Tablet Version Screenshot](https://i.imgur.com/f9pCyF7.png)
+<img src="https://i.imgur.com/f9pCyF7.png" alt="Tablet Version Screenshot" width="768">
 
 ## Mobile version
 
-![Mobile Version Screenshot](https://i.imgur.com/16t2muM.png)
+<img src="https://i.imgur.com/AYC6THl.png" alt="Mobile Version Screenshot" width="600">
 
 ## Hover Effect
 
-![Hover Effect](https://i.imgur.com/WvDjDGe.png)
+<img src="https://i.imgur.com/WvDjDGe.png" alt="Hover Effect" width="768">
 
 # Live Demo
 
