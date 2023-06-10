@@ -10,6 +10,7 @@ Check out the live demo of the project <a href="https://emidiovaleretto.github.i
 
 # Table of Contents
 
+- [User Stories](#user-stories)
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
@@ -17,7 +18,22 @@ Check out the live demo of the project <a href="https://emidiovaleretto.github.i
 - [Technologies Used](#technologies-used)
 - [Deploying with GitHub Pages](#deployment-with-github-pages)
 - [Contributing](#contributing)
-- [License](#license)
+- [Author](#author)
+
+# User Stories
+
+## New user are looking to:
+
+1. As a user, I want to be able to view the website on different devices and screen sizes, so that I can access the content on my preferred device without any issues.
+2. As a user, I want the website to have a visually appealing and structured layout, so that I can easily navigate through the content and find the information I need.
+3. As a user, I want the website to have responsive images and media, so that I can view them clearly and without distortion on any device.
+4. As a user, I want the website to have engaging animation effects, so that I can have an enjoyable and interactive experience while browsing the content.
+5. As a user, I want the images on the website to have a hover effect, so that I can visually distinguish when I'm interacting with them using my mouse cursor.
+6. As a user, I want the website to load quickly and efficiently, so that I can access the content without experiencing long loading times or delays.
+7. As a user, I want the website to be easy to navigate, with clear menus and sections, so that I can find the desired information quickly and efficiently.
+8. As a user, I want the website to be visually consistent across all pages, so that I can easily recognize and familiarize myself with the layout and design elements.
+9. As a user, I want the website to be accessible, with appropriate contrast, font sizes, and alternative text for images, so that I can use and understand the content regardless of any visual impairments.
+10. As a user, I want the website to be compatible with different web browsers, so that I can access and view the content regardless of my preferred browser.
 
 # Features
 
