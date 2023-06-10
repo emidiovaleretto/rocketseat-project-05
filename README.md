@@ -15,6 +15,7 @@ Check out the live demo of the project <a href="https://emidiovaleretto.github.i
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
+- [Deploying with GitHub Pages](#deployment-with-github-pages)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -60,6 +61,19 @@ That's it! There is no additional installation required for this project as it o
 
 - HTML
 - CSS
+
+## Deployment with GitHub Pages
+
+You can easily deploy this project using GitHub Pages. Follow these steps:
+
+1. Go to your repository on GitHub.
+2. Click on the "Settings" tab.
+3. Scroll down to the "GitHub Pages" section.
+4. In the "Source" dropdown, select the branch you want to deploy (e.g., `main`).
+5. Click on the "Save" button.
+6. After a few moments, your project will be deployed, and you will see a message indicating the URL where it's accessible.
+
+For more information, you can refer to the [GitHub Pages documentation](https://docs.github.com/en/pages).
 
 # Contributing
 
