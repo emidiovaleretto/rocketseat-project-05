@@ -1,6 +1,6 @@
 ![Explorer](https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F74dec54c-b44a-4c7e-adbd-f8a069b98b7b%2FCapa_Notion_-_Explorer.png?table=block&id=19dfbff7-b19c-47c5-9a28-6afa37d42543&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=2000&userId=&cache=v2)
 
-# Rocketseat - Project 05 - Grid Layout
+# Rocketseat - Recent Works - Grid Layout
 
 This is a single-page project developed as part of the Rocketseat Explorer course. The project showcases the main concepts of grid layout and is designed to be responsive across different screen sizes, including large screens, tablets, and mobile devices.
 
@@ -63,8 +63,8 @@ Check out the live demo of the project <a href="https://emidiovaleretto.github.i
 
 # Installation
 
-1. Clone the repository: `git clone https://github.com/emidiovaleretto/rocketseat-project-05.git`
-2. Navigate to the project directory: `cd rocketseat-project-05`
+1. Clone the repository: `git clone https://github.com/emidiovaleretto/rocketseat-recent-works.git`
+2. Navigate to the project directory: `cd rocketseat-recent-works`
 
 That's it! There is no additional installation required for this project as it only uses HTML and CSS.
 
