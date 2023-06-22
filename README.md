@@ -6,7 +6,7 @@ This is a single-page project developed as part of the Rocketseat Explorer cours
 
 # Live Demo
 
-Check out the live demo of the project <a href="https://emidiovaleretto.github.io/rocketseat-project-05/" target="_blank" rel="noopener noreferrer">Here</a>.
+Check out the live demo of the project <a href="https://emidiovaleretto.github.io/rocketseat-recent-works/" target="_blank" rel="noopener noreferrer">Here</a>.
 
 # Table of Contents
 
